@@ -11,7 +11,7 @@ def play_alarm_sound_function():
     while True:
         playsound.playsound('alarm-sound.mp3',True)
 
-#you download video from: https://disk.yandex.com/i/VMlZx-F_JLputA
+#video downloading link: https://disk.yandex.com/i/VMlZx-F_JLputA
 
 video = cv2.VideoCapture("fire.mp4")
 
